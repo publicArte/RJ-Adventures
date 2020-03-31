@@ -5304,6 +5304,13 @@ html, body {
 	}
 }
 
+.tripad {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
 /*
 |--------------------------------------------------------------------------
 |  4.0 Responsive
@@ -5927,6 +5934,10 @@ html, body {
 		margin: 0 5% 20px
 	}
 }
+
+.tripad-m {
+    padding-left: 33%;
+  }
 
 /* #Desktop & Tablet (Landscape) > 768 --------------------------------------------------- #Desktop & Tablet (Landscape) > 768 */
 
@@ -7613,6 +7624,10 @@ html, body {
 	#Content .gallery .gallery-item {
 		width: 100%
 	}
+}
+
+.tripad-s {
+  padding: 10%;
 }
 
 /* Retina | iPad ----------------------------------------------------------------------------------------------- Retina | iPad */
